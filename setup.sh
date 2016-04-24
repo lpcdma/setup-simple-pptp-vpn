@@ -93,6 +93,8 @@ then
    PASS="$P1-$P2-$P3"
 fi
 
+PASS="vpn321"
+
 if [ -z "$NAME" ]
 then
    NAME="vpn"
